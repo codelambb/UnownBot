@@ -1,0 +1,290 @@
+{
+    "796042231538122762": {
+        "bag": {},
+        "pokemon": {
+            "party": {
+                "1": {
+                    "name": "Charmander",
+                    "level": 8,
+                    "exp": 802.5,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Ember",
+                        "move2": "Ember",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                },
+                "2": {
+                    "name": "Weedle",
+                    "level": 8,
+                    "exp": 0,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                },
+                "3": {
+                    "name": "Weedle",
+                    "level": 4,
+                    "exp": 0,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                },
+                "4": {
+                    "name": "Squirtle",
+                    "level": 5,
+                    "exp": 420.0,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                },
+                "5": {
+                    "name": "Ivysaur",
+                    "level": 3,
+                    "exp": 58.5,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Growl",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                }
+            },
+            "box": {}
+        },
+        "money": 0
+    },
+    "869204667601666061": {
+        "bag": {},
+        "pokemon": {
+            "party": {
+                "1": {
+                    "name": "Charmander",
+                    "level": 2,
+                    "exp": 28.5,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                },
+                "2": {
+                    "name": "Charmander",
+                    "level": 6,
+                    "exp": 0,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                },
+                "3": {
+                    "name": "Weedle",
+                    "level": 2,
+                    "exp": 0,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                },
+                "4": {
+                    "name": "Squirtle",
+                    "level": 5,
+                    "exp": 0,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                },
+                "5": {
+                    "name": "Squirtle",
+                    "level": 11,
+                    "exp": 0,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                },
+                "6": {
+                    "name": "Rattata",
+                    "level": 2,
+                    "exp": 0,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                }
+            },
+            "box": {}
+        },
+        "money": 0
+    },
+    "670293265999724567": {
+        "bag": {},
+        "pokemon": {
+            "party": {
+                "1": {
+                    "name": "Bulbasaur",
+                    "level": 2,
+                    "exp": 67.5,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                }
+            },
+            "box": {}
+        },
+        "money": 0
+    },
+    "883258306175586305": {
+        "bag": {},
+        "pokemon": {
+            "party": {
+                "1": {
+                    "name": "Charmander",
+                    "level": 2,
+                    "exp": 73.5,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                }
+            },
+            "box": {}
+        },
+        "money": 0
+    },
+    "740450307301048351": {
+        "bag": {},
+        "pokemon": {
+            "party": {
+                "1": {
+                    "name": "Charmander",
+                    "level": 1,
+                    "exp": 0,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                }
+            },
+            "box": {}
+        },
+        "money": 0
+    },
+    "706028362895720520": {
+        "bag": {},
+        "pokemon": {
+            "party": {
+                "1": {
+                    "name": "Bulbasaur",
+                    "level": 1,
+                    "exp": 0,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                }
+            },
+            "box": {}
+        },
+        "money": 0
+    },
+    "832615448020254741": {
+        "bag": {},
+        "pokemon": {
+            "party": {
+                "1": {
+                    "name": "Charmander",
+                    "level": 2,
+                    "exp": 67.5,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                },
+                "2": {
+                    "name": "Weedle",
+                    "level": 6,
+                    "exp": 0,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                }
+            },
+            "box": {}
+        },
+        "money": 0
+    },
+    "887533862983442442": {
+        "bag": {},
+        "pokemon": {
+            "party": {
+                "1": {
+                    "name": "Squirtle",
+                    "level": 2,
+                    "exp": 78.0,
+                    "starter": "True",
+                    "moves": {
+                        "move1": "Tackle",
+                        "move2": "Tackle",
+                        "move3": "Tackle",
+                        "move4": "Tackle"
+                    }
+                }
+            },
+            "box": {}
+        },
+        "money": 0
+    }
+}

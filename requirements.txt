@@ -1,0 +1,3 @@
+discord-components
+discord.py
+Flask

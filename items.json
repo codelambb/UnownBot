@@ -1,0 +1,314 @@
+{
+    "Pokeballs": {
+        "Pokeball": {
+            "price": 300,
+            "use": "A common pokeball used for catching wild pokemons!",
+            "emoji": "<:pokeball:901448199577935913>",
+            "image": "https://cdn2.bulbagarden.net/upload/7/79/Dream_Pok%C3%A9_Ball_Sprite.png",
+            "sell": 100
+        },
+
+        "Great Ball": {
+            "price": 1000,
+            "use": "A uncommon pokeball used for catching wild pokemons!",
+            "emoji": "<:greatball:901448641020039238>",
+            "image": "https://cdn2.bulbagarden.net/upload/b/bf/Dream_Great_Ball_Sprite.png",
+            "sell": 500
+        },
+      
+        "Ultra Ball": {
+            "price": 3000,
+            "use": "A rare pokeball used for catching wild pokemons!",
+            "emoji": "<:ultraball:901448813045248010>",
+            "image": "https://cdn2.bulbagarden.net/upload/a/a8/Dream_Ultra_Ball_Sprite.png",
+            "sell": 1200
+        },
+        
+        "Master Ball": {
+            "price": 10000,
+            "use": "A legendary pokeball used for catching wild pokemons!",
+            "emoji": "<:masterball:901449040334565386>",
+            "image": "https://cdn2.bulbagarden.net/upload/9/95/Dream_Master_Ball_Sprite.png",
+            "sell": 7500
+        }
+    },
+
+    "Battle Items": {
+        "X Attack": {
+            "price": 500,
+            "use": "Use this battle item to increase pokemon's attack stat temporarily!",
+            "emoji": "<:xattack:901453213159542824>",
+            "image": "https://cdn2.bulbagarden.net/upload/d/df/Dream_X_Attack_Sprite.png",
+            "sell": 175
+        },
+
+        "X Defense": {
+            "price": 550,
+            "use": "Use this battle item to increase pokemon's defense stat temporarily!",
+            "emoji": "<:xdefense:901453629087711262>",
+            "image": "https://cdn2.bulbagarden.net/upload/d/d4/Dream_X_Defense_Sprite.png",
+            "sell": 175
+        },
+
+        "X Sp Atk": {
+            "price": 350,
+            "use": "Use this battle item to increase pokemon's special attack stat temporarily!",
+            "emoji": "<:xspatk:901453994348662805>",
+            "image": "https://cdn2.bulbagarden.net/upload/e/e6/Dream_X_Sp._Atk_Sprite.png",
+            "sell": 175
+        },
+
+        "X Sp Def": {
+            "price": 350,
+            "use": "Use this battle item to increase pokemon's special defense stat temporarily!",
+            "emoji": "<:xspdef:901454337539182603>",
+            "image": "https://cdn2.bulbagarden.net/upload/2/25/Dream_X_Sp._Def_Sprite.png",
+            "sell": 175
+        },
+
+        "X Speed": {
+            "price": 350,
+            "use": "Use this battle item to increase pokemon's speed stat temporarily!",
+            "emoji": "<:xspeed:901454682432626709>",
+            "image": "https://cdn2.bulbagarden.net/upload/b/ba/Dream_X_Speed_Sprite.png",
+            "sell": 175
+        }
+    },
+
+    "Medicines": {
+        "Potion": {
+            "price": 350,
+            "use": "Use this to heal your pokemon in battle by 20 HP!",
+            "emoji": "<:potion:901466520436211762>",
+            "image": "https://cdn2.bulbagarden.net/upload/d/df/Dream_Potion_Sprite.png",
+            "sell": 150
+        },
+
+        "Super Potion": {
+            "price": 700,
+            "use": "Use this to heal your pokemon in battle by 50 HP!",
+            "emoji": "<:superpotion:901466956337672312>",
+            "image": "https://cdn2.bulbagarden.net/upload/5/57/Dream_Super_Potion_Sprite.png",
+            "sell": 350
+        },
+
+        "Hyper Potion": {
+            "price": 1500,
+            "use": "Use this to heal your pokemon in battle by 200HP!",
+            "emoji": "<:hyperpotion:901467330020794399>",
+            "image": "https://cdn2.bulbagarden.net/upload/c/c8/Dream_Hyper_Potion_Sprite.png",
+            "sell": 750
+        },
+
+        "Max Potion": {
+            "price": 2500,
+            "use": "Use this to heal your pokemon in battle to full hp of pokemon!",
+            "emoji": "<:maxpotion:901468043291553792>",
+            "image": "https://cdn2.bulbagarden.net/upload/a/a2/Dream_Max_Potion_Sprite.png",
+            "sell": 1250
+        },
+
+        "Revive": {
+            "price": 1500,
+            "use": "Use this to revive your fainted pokemon in battle and restore its half!",
+            "emoji": "<:revive:901468626815684608>",
+            "image": "https://cdn2.bulbagarden.net/upload/8/8c/Dream_Revive_Sprite.png",
+            "sell": 750
+        },
+
+        "Max Revive": {
+            "price": 5000,
+            "use": "Use this to revive your fainted pokemon in battle and restore its full hp!",
+            "emoji": "<:maxrevive:901469224625635339>",
+            "image": "https://cdn2.bulbagarden.net/upload/4/45/Dream_Max_Revive_Sprite.png",
+            "sell": 2000
+        },
+
+
+        "HP Up": {
+            "price": 9800,
+            "use": "Use this to raise your pokemon's hp stat by 2 permanently!",
+            "emoji": "<:hpup:901473097151029268>",
+            "image": "https://cdn2.bulbagarden.net/upload/c/ce/Dream_HP_Up_Sprite.png",
+            "sell": 4900
+        },
+
+        "Protein": {
+            "price": 9800,
+            "use": "Use this to raise your pokemon's attack stat by 2 permanently!",
+            "emoji": "<:protein:901473530900791306>",
+            "image": "https://cdn2.bulbagarden.net/upload/f/fa/Dream_Protein_Sprite.png",
+            "sell": 4900
+        },
+
+        "Iron": {
+            "price": 9800,
+            "use": "Use this to raise your pokemon's defense stat by 2 permanently!",
+            "emoji": "<:iron:901473806093271130>",
+            "image": "https://cdn2.bulbagarden.net/upload/8/8b/Dream_Iron_Sprite.png",
+            "sell": 4900
+        },
+
+        "Calcium": {
+            "price": 9800,
+            "use": "Use this to raise your pokemon's special attack stat by 2 permanently!",
+            "emoji": "<:calcium:901474406952480788>",
+            "image": "https://cdn2.bulbagarden.net/upload/3/3d/Dream_Calcium_Sprite.png",
+            "sell": 4900
+        },
+
+        "Zinc": {
+            "price": 9800,
+            "use": "Use this to raise your pokemon's special defense stat by 2 permanently!",
+            "emoji": "<:zinc:901474833886507038>",
+            "image": "https://cdn2.bulbagarden.net/upload/e/e2/Dream_Zinc_Sprite.png",
+            "sell": 4900
+        },
+
+        "Carbos": {
+            "price": 9800,
+            "use": "Use this to raise your pokemon's speed by 2 permanently!",
+            "emoji": "<:carbos:901475187185299626>",
+            "image": "https://cdn2.bulbagarden.net/upload/9/95/Dream_Carbos_Sprite.png",
+            "sell": 4900
+        }
+    },
+
+    "Berries": {
+
+    },
+
+    "Money Items": {
+        "Old Rod": {
+            "price": 5000,
+            "use": "Use this to fish items and sell them! Low chance of getting expensive item!",
+            "emoji": "<:oldrod:901700441962844200>",
+            "image": "https://cdn2.bulbagarden.net/upload/7/7e/Old_Rod_XYORAS.png",
+            "sell": 2000
+        },  
+
+        "Good Rod": {
+            "price": 10000,
+            "use": "Use this to fish items and sell them! Medium chance of getting expensive item!",
+            "emoji": "<:goodrod:901700592290906172>",
+            "image": "https://cdn2.bulbagarden.net/upload/8/82/Good_Rod_XYORAS.png",
+            "sell": 5000
+        },   
+        
+        "Super Rod": {
+            "price": 20000,
+            "use": "Use this to fish items and sell them! High chance of getting expensive item!",
+            "emoji": "<:superrod:901700736356864111>",
+            "image": "https://cdn2.bulbagarden.net/upload/a/af/Super_Rod_XYORAS.png",
+            "sell": 15000
+        },
+
+        "Wooden Pickaxe": {
+            "price": 2000,
+            "use": "Use this mine underground to find ores which can be sold! (Lowest chance for getting good ores)",
+            "emoji": "<:woodenpick:902429904447086602>",
+            "image": "https://media.discordapp.net/attachments/901870783448617000/902429939716984852/woodenpick.png",
+            "sell": 1500
+        },
+
+        "Stone Pickaxe": {
+            "price": 3000,
+            "use": "Use this mine underground to find ores which can be sold! (Lower chance for getting good ores)",
+            "emoji": "<:stonepick:902430893329756170>",
+            "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c4/Stone_Pickaxe_JE2_BE2.png/revision/latest/scale-to-width-down/160?cb=20200217234007",
+            "sell": 2500
+        },
+
+        "Iron Pickaxe": {
+            "price": 10000,
+            "use": "Use this mine underground to find ores which can be sold! (Higher chance of getting good ores)",
+            "emoji": "<:ironpick:902431174037749821>",
+            "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Iron_Pickaxe_JE3_BE2.png/revision/latest/scale-to-width-down/160?cb=20200105053011",
+            "sell": 4500
+        },
+
+        "Diamond Pickaxe": {
+            "price": 15000,
+            "use": "Use this mine underground to find ores which can be sold! (Highest chance of getting good ores)",
+            "emoji": "<:diamondpick:902432289580015656>",
+            "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e7/Diamond_Pickaxe_JE3_BE3.png/revision/latest/scale-to-width-down/160?cb=20200226193952",
+            "sell": 14500
+        }
+    },
+
+    "Fishes": {
+        "Common Fish": {
+            "price": "NA",
+            "use": "Sell this to get PokeCash!",
+            "emoji": "<:commonfish:901717248547389503>",
+            "image": "https://media.discordapp.net/attachments/890262673428738098/901719901104926720/commonfish.png",
+            "sell": 300
+        },
+
+        "Uncommon Fish": {
+            "price": "NA",
+            "use": "Sell this to get PokeCash!",
+            "emoji": "<:uncommonfish:901716319639056425>",
+            "image": "https://media.discordapp.net/attachments/890262673428738098/901720178482618428/uncommonfish.png",
+            "sell": 500
+        },
+
+        "Rare Fish": {
+            "price": "NA",
+            "use": "Sell this to get PokeCash!",
+            "emoji": "<:rarefish:901718629668778005>",
+            "image": "https://emoji.gg/assets/emoji/2588-stardewlegend.png",
+            "sell": 1000
+        },
+
+        "Legendary Fish": {
+            "price": "NA",
+            "use": "Sell this to get PokeCash!",
+            "emoji": "<:legendaryfish:901718375468793917>",
+            "image": "https://cdn.discordapp.com/attachments/890262673428738098/901719690609586216/163487385665168955.png",
+            "sell": 2000
+        }
+    },
+
+    "Ores": {
+        "Coal Ore": {
+            "price": "NA",
+            "use": "Sell this to get PokeCash!",
+            "emoji": "<:coal:903854370171527168>",
+            "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/58/Coal_JE4_BE3.png/revision/latest/scale-to-width-down/160?cb=20190430040242",
+            "sell": 500
+        },
+
+        "Copper Ore": {
+            "price": "NA",
+            "use": "Sell this to get PokeCash!",
+            "emoji": "<:copper:903854053124083722>",
+            "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/91/Copper_Ingot_JE2_BE1.png/revision/latest/scale-to-width-down/160?cb=20201111183617",
+            "sell": 1000
+        },
+
+        "Iron Ore": {
+            "price": "NA",
+            "use": "Sell this to get PokeCash!",
+            "emoji": "<:iron:903853838782566401>",
+            "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fc/Iron_Ingot_JE3_BE2.png/revision/latest/scale-to-width-down/160?cb=20200523233216",
+            "sell": 1500
+        },
+
+        "Emerald Ore": {
+            "price": "NA",
+            "use": "Sell this to get PokeCash!",
+            "emoji": "<:emerald:903852996331462667>",
+            "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/26/Emerald_JE3_BE3.png/revision/latest/scale-to-width-down/160?cb=20191229174220",
+            "sell": 2000
+        },
+
+        "Diamond Ore": {
+            "price": "NA",
+            "use": "Sell this to get PokeCash!",
+            "emoji": "<:diamond:903853551539867688>",
+            "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ab/Diamond_JE3_BE3.png/revision/latest?cb=20200325185152",
+            "sell": 3000
+        }
+    }
+}

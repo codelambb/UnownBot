@@ -1,0 +1,422 @@
+{
+  "Bulbasaur": {
+    "stats": {
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "sp. atk": 65,
+      "sp. def": 65,
+      "speed": 45
+    },
+    "moves": {
+      "Tackle": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100,
+        "level": 1
+      },
+      "Growl": {
+        "type": "normal",
+        "damage": 0,
+        "accuracy": 100,
+        "attack_decrease": 10,
+        "level": 1,
+        "effects": [
+          "canburn"
+        ]
+      },
+      "Vine whip": {
+        "type": "grass",
+        "damage": 45,
+        "accuracy": 100,
+        "level": 8
+      },
+      "Growth": {
+        "type": "grass",
+        "damage": 45,
+        "accuracy": 100,
+        "level": 14,
+        "attack": 10
+      }
+    },
+    "weakness": ["fire"],
+    "strength": ["water"],
+    "type": "Grass/Poison",
+    "emoji": "<:bulbasaur:867639023522676736>",
+    "rarity": "uncommon",
+    "image": "https://cdn2.bulbagarden.net/upload/2/21/001Bulbasaur.png",
+    "evolve": 16,
+    "evolve_to": "Ivysaur"
+  },
+  "Charmander": {
+    "stats": {
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "sp. atk": 60,
+      "sp. def": 50,
+      "speed": 65
+    },
+    "moves": {
+      "Tackle": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100,
+        "level": 1
+      },
+      "Ember": {
+        "type": "fire",
+        "damage": 50,
+        "accuracy": 100,
+        "level": 8
+      }
+    },
+    "weakness": ["water"],
+    "strength": ["grass"],
+    "type": "Fire",
+    "rarity": "uncommon",
+    "emoji": "<:charmander:867638757175459852>",
+    "image": "https://cdn2.bulbagarden.net/upload/thumb/7/73/004Charmander.png/900px-004Charmander.png",
+    "evolve": 16,
+    "evolve_to": "Charmeleon"
+  },
+  "Squirtle": {
+    "stats": {
+      "hp": 44,
+      "attack": 48,
+      "defense": 65,
+      "sp. atk": 50,
+      "sp. def": 64,
+      "speed": 43
+    },
+    "moves": {
+      "Tackle": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100,
+        "level": 1
+      },
+      "bubble": {
+        "type": "water",
+        "damage": 60,
+        "accuracy": 100
+      }
+    },
+    "weakness": ["grass"],
+    "strength": ["fire"],
+    "type": "Water",
+    "rarity": "uncommon",
+    "emoji": "<:squirtle:867637866830102558>",
+    "image": "https://cdn2.bulbagarden.net/upload/thumb/3/39/007Squirtle.png/900px-007Squirtle.png",
+    "evolve": 16,
+    "evolve_to": "Wartortle"
+  },
+  "Ivysaur": {
+    "stats": {
+      "hp": 60,
+      "attack": 62,
+      "defense": 63,
+      "sp. atk": 80,
+      "sp. def": 80,
+      "speed": 60
+    },
+    "moves": {
+      "Tackle": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100,
+        "level": 1
+      },
+      "Razor leaf": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100,
+        "level": 30
+      },
+      "Growl": {
+        "type": "normal",
+        "damage": 0,
+        "accuracy": 100,
+        "attack_decrease": 10,
+        "level": 1
+      },
+      "Vine whip": {
+        "type": "grass",
+        "damage": 45,
+        "accuracy": 100,
+        "level": 8
+      },
+      "Growth": {
+        "type": "grass",
+        "damage": 45,
+        "accuracy": 100,
+        "level": 14,
+        "attack": 10
+      }
+    },
+    "weakness": [],
+    "strength": [],
+    "type": "Grass/Posion",
+    "rarity": "rare",
+    "emoji": "<:ivysaur:867772400027959316>",
+    "image": "https://cdn2.bulbagarden.net/upload/7/73/002Ivysaur.png",
+    "evolve": 16,
+    "evolvo_to": "Venasaur"
+  },
+  "Charizard": {
+    "stats": {
+      "hp": 78,
+      "attack": 80,
+      "defense": 78,
+      "sp. atk": 109,
+      "sp. def": 85,
+      "speed": 100
+    },
+    "moves": {
+      "Tackle": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100,
+        "level": 1
+      },
+      "Flamethrower": {
+        "type": "fire",
+        "damage": "90",
+        "accuracy": 100,
+        "attack": 0,
+        "defense": 0,
+        "sp_attack": 0,
+        "sp_defense": 0,
+        "speed": 0
+      },
+      "Air slash": {
+        "type": "flying",
+        "damage": "20",
+        "accuracy": 100
+      }
+    },
+    "weakness": [],
+    "strength": [],
+    "type": "Fire/Dragon",
+    "rarity": "epic",
+    "emoji": "<:charizard:867785529471008799>",
+    "image": "https://cdn.dittachments/865106631741538383/867784700100870154/250px-006Charizard.png",
+    "evolve": "None",
+    "evolve_to": "None"
+  },
+  "Venasaur": {
+    "stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 83,
+      "sp. atk": 100,
+      "sp. def": 100,
+      "speed": 80
+    },
+    "moves": {
+      "Tackle": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100
+      },
+      "Razor leaf": {
+        "type": "grass",
+        "damage": 55,
+        "accuracy": 95
+      },
+      "Vine whip": {
+        "type": "grass",
+        "damage": 45,
+        "accuracy": 100
+      }
+    },
+    "weakness": [],
+    "strength": [],
+    "type": "Grass/Poison",
+    "rarity": "epic",
+    "emoji": "<:ivysaur:867772400027959316>",
+    "image": "https://cdn2.bulbagarden.net/upload/thumb/a/ae/003Venusaur.png/375px-003Venusaur.png",
+    "evolve": "None",
+    "evolve_to": "None"
+  },
+  "Articuno": {
+    "stats": {
+      "hp": 90,
+      "attack": 85,
+      "defense": 100,
+      "sp. atk": 95,
+      "sp. def": 125,
+      "speed": 85
+    },
+    "moves": {
+      "Tackle": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100,
+        "level": 1
+      }
+    },
+    "weakness": [],
+    "strength": [],
+    "type": "Ice/Flying",
+    "rarity": "legendary",
+    "emoji": "<:articuno:867988874180329524>",
+    "image": "https://cdn2.bulbagarden.net/upload/thumb/4/4e/144Articuno.png/900px-144Articuno.png",
+    "evolve": "None",
+    "evolve_to": "None"
+  },
+  "Caterpie": {
+    "stats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 35,
+      "sp. atk": 20,
+      "sp. def": 20,
+      "speed": 45
+    },
+    "moves": {
+      "Tackle": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100,
+        "level": 1
+      }
+    },
+    "weakness": [],
+    "strength": [],
+    "type": "Bug",
+    "rarity": "common",
+    "emoji": "<:caterpie:867990816851902545>",
+    "image": "https://cdn2.bulbagarden.net/upload/5/5d/010Caterpie.png"
+  },
+  "Pidgey": {
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 40,
+      "sp. atk": 35,
+      "sp. def": 35,
+      "speed": 56
+    },
+    "moves": {
+      "Tackle": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100,
+        "level": 1
+      }
+    },
+    "weakness": [],
+    "strength": [],
+    "type": "Flying",
+    "rarity": "common",
+    "emoji": "<:pidgey:868009633304961136>",
+    "image": "https://cdn2.bulbagarden.net/upload/5/55/016Pidgey.png",
+    "evolve": 18,
+    "evolve_to": "Pidgeotto"
+  },
+  "Beedrill": {
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 40,
+      "sp. atk": 45,
+      "sp. def": 80,
+      "speed": 75
+    },
+    "weakness": [],
+    "strength": [],
+    "image": "https://cdn2.bulbagarden.net/upload/thumb/6/61/015Beedrill.png/900px-015Beedrill.png",
+    "emoji": "<:beedrill:870686135360323595>",
+    "rarity": "rare",
+    "evolve": "None",
+    "type": "Bug",
+    "evolve_to": "None",
+    "moves": {
+      "Tackle": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100,
+        "level": 1
+      }
+    }
+  },
+  "Charmeleon": {
+    "stats": {
+      "hp": 58,
+      "attack": 64,
+      "defense": 58,
+      "sp. atk": 80,
+      "sp. def": 65,
+      "speed": 80
+    },
+    "weakness": [],
+    "strength": [],
+    "image": "https://cdn2.bulbagarden.net/upload/4/4a/005Charmeleon.png",
+    "emoji": "<:charmeleon:871963253650104340>",
+    "rarity": "rare",
+    "evolve": 36,
+    "type": "Fire",
+    "evolve_to": "Charizard",
+    "moves": {
+      "Tackle": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100,
+        "level": 1
+      }
+    }
+  },
+  "Rattata": {
+    "stats": {
+      "hp": 30,
+      "attack": 56,
+      "defense": 35,
+      "sp. atk": 25,
+      "sp. def": 35,
+      "speed": 72
+    },
+    "weakness": [],
+    "strength": [],
+    "image": "https://cdn2.bulbagarden.net/upload/thumb/4/46/019Rattata.png/900px-019Rattata.png",
+    "emoji": "<:rattata:871968656073056286>",
+    "rarity": "common",
+    "evolve": 20,
+    "type": "Normal",
+    "evolve_to": "Raticate",
+    "moves": {
+      "Tackle": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100,
+        "level": 1
+      }
+    }
+  },
+  "Weedle": {
+    "stats": {
+      "hp": 40,
+      "attack": 35,
+      "defense": 30,
+      "sp. atk": 20,
+      "sp. def": 20,
+      "speed": 50
+    },
+    "weakness": [],
+    "strength": [],
+    "image": "https://cdn2.bulbagarden.net/upload/d/df/013Weedle.png",
+    "emoji": "<:weedle:871970799668576286>",
+    "rarity": "common",
+    "evolve": 7,
+    "type": "Bug/Poison",
+    "evolve_to": "Kakuna",
+    "moves": {
+      "Tackle": {
+        "type": "normal",
+        "damage": 40,
+        "accuracy": 100,
+        "level": 1
+      }
+    }
+  }
+}
